@@ -18,7 +18,7 @@ Args: ticket-id: The id of the ticket
 
 Create a mock summary of a technical support issue for the Rancher Kubernetes platform, related to a problem with Istio. Mention the ticket-id passed in. Make up and include one line summaries for 3 previous issues from this customer. 
 
---
+---
 Name: fixer
 Description: Fixes networking problems
 
