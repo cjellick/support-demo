@@ -2,7 +2,7 @@ Export: kb-researcher, ticket-opener, fixer
 Description: A collection of support tools
 
 ---
-Name: kb-researcher:
+Name: kb-researcher
 Description: Searches the support knowledge base and suggests relevant knowledge base articles that might provide a solution to the ticket-id mentioned, along with a summary of steps to take.
 Args: problem: Summary of the problem being encountered
 
