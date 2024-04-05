@@ -6,7 +6,7 @@ Name: kb-researcher
 Description: Searches the support knowledge base and suggests relevant knowledge base articles that might provide a solution to the ticket-id mentioned, along with a summary of steps to take.
 Args: problem: Summary of the problem being encountered
 
-Create a mock summary of three knowledge base articles that might address the supplied problem. Include fake hyper links to the articles.
+Return to the user a mock summary of three knowledge base articles that might address the supplied problem. Include fake hyper links to the articles.
 
 Then, tell the user that there is a diagnostic tool available that you can run that should narrow down the problem and ask if they want you to run it.
 
