@@ -13,7 +13,7 @@ Then, tell the user that there is a diagnostic tool available that you can run t
 
 ---
 Name: ticket-opener
-Description: Opens a the specified support ticket and provides a sumary
+Description: Returns information about the specified support ticket and provides a sumary
 Args: ticket-id: The id of the ticket
 
 Return to the user a mock summary of a technical support issue for the Rancher Kubernetes platform, related to a problem with Istio. Mention the ticket-id passed in. Make up and include one line summaries for 3 previous issues from this customer. 
